@@ -1,0 +1,16 @@
+.second_route_wrapper {
+    font-weight: bold;
+    font-size: 36px;
+    color: lightcoral;
+}
+
+.link {
+    font-size: 20px;
+    color: #6678c2;
+    text-decoration: none;
+}
+
+.list {
+    font-size: 18px;
+    color: gray;
+}

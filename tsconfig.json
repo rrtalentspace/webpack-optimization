@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "esnext",
+    "target": "es5",
+    "noImplicitAny": true,
+    "outDir": "./build/",
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "moduleResolution": "node"
+  },
+  "include": [
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

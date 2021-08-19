@@ -1,0 +1,11 @@
+.first_route_wrapper {
+    font-weight: bold;
+    font-size: 30px;
+    color: #1d7474;
+}
+
+.link {
+    font-size: 20px;
+    color: #64cded;
+    text-decoration: none;
+}
